@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import random
 num = random.randint(-10, 10)
 if num > 0:
